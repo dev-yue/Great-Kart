@@ -1,1 +1,1 @@
-# Great-Kart
+# Great-Kart Django Project

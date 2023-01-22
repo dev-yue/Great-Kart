@@ -28,7 +28,7 @@ SECRET_KEY = 'xk_&7pgr!fd#*cwg+o#u+lz$m)dwcp5vx(eegudekyljn8e7pi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['greatkart-course-env.eba-dznzkwvc.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['obscure-waters-07357.herokuapp.com']
 
 
 # Application definition
